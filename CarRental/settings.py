@@ -14,7 +14,7 @@ SECRET_KEY = 'n8ys%5l3nhqivsh(-(l5-x-un3gmauda4+d_gw#+f#nz7-h*(l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['Varsha12.pythonanywhere.com', 'localhost']
+ALLOWED_HOSTS = ['Varsha12.pythonanywhere.com']
 
 
 
